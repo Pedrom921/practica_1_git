@@ -29,7 +29,11 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+text{
+    lkdsjhgjlkdsg
+    sdogfihgijlfkflñdsf
+    kfjsdgñfdsg
+}
 
 
 @Preview(showBackground = true)
